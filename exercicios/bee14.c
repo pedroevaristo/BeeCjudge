@@ -10,6 +10,4 @@ scanf("%i %f", &x, &y);//Km total e litro do combustivel usado
 
 t=x/y;
 printf("%.3f", t);
-
-
 }

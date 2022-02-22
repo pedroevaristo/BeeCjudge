@@ -4,5 +4,7 @@
 #include<stdlib.h>
 
 int main(){
-
+int x,y;
+  scanf("%i", &x);
+printf("%i", x * 2);
 }
